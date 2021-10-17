@@ -1,0 +1,12 @@
+c:\users\anonymous\documents\visual studio 2015\Projects\pulse chart\pulse chart\bin\Debug\pulse chart.exe.config
+c:\users\anonymous\documents\visual studio 2015\Projects\pulse chart\pulse chart\bin\Debug\pulse chart.exe
+c:\users\anonymous\documents\visual studio 2015\Projects\pulse chart\pulse chart\bin\Debug\pulse chart.pdb
+c:\users\anonymous\documents\visual studio 2015\Projects\pulse chart\pulse chart\obj\Debug\pulse chart.csprojResolveAssemblyReference.cache
+c:\users\anonymous\documents\visual studio 2015\Projects\pulse chart\pulse chart\obj\Debug\pulse_chart.Form1.resources
+c:\users\anonymous\documents\visual studio 2015\Projects\pulse chart\pulse chart\obj\Debug\pulse_chart.Properties.Resources.resources
+c:\users\anonymous\documents\visual studio 2015\Projects\pulse chart\pulse chart\obj\Debug\pulse chart.csproj.GenerateResource.Cache
+c:\users\anonymous\documents\visual studio 2015\Projects\pulse chart\pulse chart\obj\Debug\pulse chart.exe
+c:\users\anonymous\documents\visual studio 2015\Projects\pulse chart\pulse chart\obj\Debug\pulse chart.pdb
+D:\Sajad\New folder (3)\seyfi\pulse chart\pulse chart\bin\Debug\pulse chart.exe.config
+D:\Sajad\New folder (3)\seyfi\pulse chart\pulse chart\obj\Debug\pulse chart.exe
+D:\Sajad\New folder (3)\seyfi\pulse chart\pulse chart\obj\Debug\pulse chart.pdb
